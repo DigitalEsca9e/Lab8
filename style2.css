@@ -1,0 +1,31 @@
+header{
+	padding:20px;
+	padding-top: 200px;
+	border-style: dashed;
+	border-color:purple;
+	margin:5px 10px;
+	text-align:center;
+	font-size:12px
+}
+.center{
+	font-size:8px;
+	color:green;
+	text-align:center;
+	font-weight:bold;
+}
+.left{
+	color:orange;
+	font-size:24px;
+}
+sup{
+	color:red;
+}
+.right{
+	text-align:right;
+	color:purple;
+	font-size:5px;
+}
+em{
+	color:yellow;
+	text-transform:uppercase;
+}

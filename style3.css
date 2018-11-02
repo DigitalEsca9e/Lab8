@@ -1,0 +1,17 @@
+.back{
+	background-color:green;
+	color:purple;
+}
+.fore{
+	margin:10px 10px;
+	border-style:dashed;
+	border-width:5px;
+	border-color:black;
+	padding:15px;
+}
+.orange{
+	color:red;
+}
+.darkgreen{
+	color:darkgreen;
+}
